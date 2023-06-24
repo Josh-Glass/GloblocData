@@ -1,0 +1,9 @@
+﻿block_data,stim,count,mean,std,min,25%,50%,75%,max,num_missing,adj_mean,stnd_error
+1,materials/images/blueB5.png,34,0.470588235,0.506640397,0,0.0,0.0,1.0,1,0,0.470588235,0.086888111
+2,materials/images/blueB5.png,34,0.647058824,0.48507125,0,0.0,1.0,1.0,1,0,0.647058824,0.083189033
+3,materials/images/blueB5.png,33,0.757575758,0.43519414,0,1.0,1.0,1.0,1,1,0.878787879,0.074635179
+4,materials/images/blueB5.png,25,0.88,0.331662479,0,1.0,1.0,1.0,1,9,0.988,0.056879646
+5,materials/images/blueB5.png,13,0.846153846,0.375533808,0,1.0,1.0,1.0,1,21,0.993006993,0.064403517
+6,materials/images/blueB5.png,8,0.75,0.46291005,0,0.75,1.0,1.0,1,26,0.990740741,0.079388419
+7,materials/images/blueB5.png,5,1.0,0.0,1,1.0,1.0,1.0,1,29,1.0,0.0
+8,materials/images/blueB5.png,1,1.0,,1,1.0,1.0,1.0,1,33,1.0,0.0
